@@ -1,0 +1,53 @@
+{
+    "atcocode": "490008660N",
+    "smscode": "52601",
+    "request_time": "2021-03-03T11:22:23+00:00",
+    "name": "Lady Somerset Road Gospel Oak (Stop GY)",
+    "stop_name": "Lady Somerset Road Gospel Oak",
+    "bearing": "N",
+    "indicator": "Stop GY",
+    "locality": "Gospel Oak, London",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -0.14395,
+            51.55382
+        ]
+    },
+    "departures": {
+        "all": [
+            {
+                "mode": "bus",
+                "line": "214",
+                "line_name": "214",
+                "direction": "Highgate Vill",
+                "operator": "LGEN",
+                "date": "2021-03-03",
+                "expected_departure_date": "2021-03-03",
+                "aimed_departure_time": "05:33",
+                "expected_departure_time": "11:26",
+                "best_departure_estimate": "11:26",
+                "source": "Countdown instant",
+                "dir": "inbound",
+                "operator_name": "London General",
+                "id": "https://transportapi.com/v3/uk/bus/route/LGEN/214/inbound/490008660N/2021-03-03/05:33/timetable.json?app_id=9c400ecf&app_key=8624ad12adcb96619da049d0bcedece0"
+            },
+            {
+                "mode": "bus",
+                "line": "88",
+                "line_name": "88",
+                "direction": "Parliament Hill",
+                "operator": "LGEN",
+                "date": "2021-03-03",
+                "expected_departure_date": "2021-03-03",
+                "aimed_departure_time": "05:38",
+                "expected_departure_time": "11:30",
+                "best_departure_estimate": "11:30",
+                "source": "Countdown instant",
+                "dir": "inbound",
+                "operator_name": "London General",
+                "id": "https://transportapi.com/v3/uk/bus/route/LGEN/88/inbound/490008660N/2021-03-03/05:38/timetable.json?app_id=9c400ecf&app_key=8624ad12adcb96619da049d0bcedece0"
+            }
+        ]
+    }
+}
